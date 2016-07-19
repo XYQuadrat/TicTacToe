@@ -1,0 +1,14 @@
+canvas {
+  border: 1px solid black;
+}
+
+.box {
+  margin: 0 auto;
+  padding-top: 250px;
+  text-align: center;
+  width: 200px;
+}
+
+h1 {
+  font-family: monospace, sans-serif;;
+}
